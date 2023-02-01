@@ -1,4 +1,4 @@
-.heading{
+/* .heading{
     color: red;
 }
 
@@ -8,4 +8,7 @@
 
 #pinkheader {
     background-color: pink;
+} */
+html{
+    scroll-behavior: smooth;
 }
