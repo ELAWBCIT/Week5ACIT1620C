@@ -9,6 +9,17 @@
 #pinkheader {
     background-color: pink;
 } */
-html{
+/* html{
     scroll-behavior: smooth;
+} */
+
+span{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-top: 2px black solid;
+    border-bottom: 4px gray solid;
+}
+.para-with-span{
+    margin: 5px;
+    border: ridge 10px lightgreen
 }
